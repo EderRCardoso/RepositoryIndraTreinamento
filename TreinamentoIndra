@@ -1,0 +1,9 @@
+package es.indra.treinamento;
+
+public class WriterHelper {
+
+	public String getMessage(String name) {
+		return "Olá "+name+"!   PRIMEIRA EVOLUTIVA" ;
+	}
+
+}
